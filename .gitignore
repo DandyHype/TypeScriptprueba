@@ -1,0 +1,3 @@
+# Avoid accidental upload of the TypeScript Files
+tsconfig.json
+*.ts
